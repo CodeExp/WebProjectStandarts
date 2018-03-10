@@ -1,0 +1,5 @@
+Wordpress.com (JetPack & Akismet)
+Google
+OVH + FTP
+Stripe
+Git (Bitbucket)

@@ -1,0 +1,7 @@
+Validation de contenus
+Validations des liens (linking)
+Validation fonctionnelle (correspondance spec<->code)
+Accessibilité
+Navigateurs
+Connection
+Chargement des pages (Pagespeed)
