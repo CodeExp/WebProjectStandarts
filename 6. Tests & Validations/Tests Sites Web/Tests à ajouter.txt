@@ -5,3 +5,13 @@ Accessibilité
 Navigateurs
 Connection
 Chargement des pages (Pagespeed)
+
+Validator W3C : 
+- HTML
+- CSS
+- Checklinks
+- Mobile
+
+Failles sécurité à tester :
+- Injections SQL
+- Failles XSS
