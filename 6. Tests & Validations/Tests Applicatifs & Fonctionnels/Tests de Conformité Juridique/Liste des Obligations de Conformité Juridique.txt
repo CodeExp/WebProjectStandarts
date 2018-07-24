@@ -3,7 +3,7 @@ Liste des Obligations de Conformité Juridique :
 - Présence des CGU (Service en ligne)
 - Présence de la politique de Confidentialité
 - Présence de l'accès à la gestion des Cookies et Traceurs
-
+- Présence d'une barre d’avertissement sur l’usage des cookies
 
 Liste complémentaire pour les sites e-commerce :
 - Présence des CGV (Site e-commerce)
