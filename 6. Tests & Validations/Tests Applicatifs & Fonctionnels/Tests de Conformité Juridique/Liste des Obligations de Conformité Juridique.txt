@@ -1,0 +1,15 @@
+Liste des Obligations de Conformité Juridique :
+- Présence des Mentions Légales
+- Présence des CGU (Service en ligne)
+- Présence de la politique de Confidentialité
+- Présence de l'accès à la gestion des Cookies et Traceurs
+
+
+Liste complémentaire pour les sites e-commerce :
+- Présence des CGV (Site e-commerce)
+- Formalité d’acceptation des CGV pour être certain que la personne a consenti au contrat : Présence d'une case à cocher sur le formulaire d'inscription (Service en ligne) ou sur la validation de l'achat (Site e-commerce)
+- Respect des obligations de conseil
+- On s’assure que le client est légalement en mesure de conclure un contrat
+- Les pirx Hors Taxes (HT) et Toutes Taxes Comprises (TTC) sont bien indiquées sur le site
+- Un point de contact téléphonique, dont le coût est celuid’une communication locale à partir d’un poste fixe, est indiqué dans l’e-mail de confirmation de commande afin d’assurer le suivi de la commande
+- 
