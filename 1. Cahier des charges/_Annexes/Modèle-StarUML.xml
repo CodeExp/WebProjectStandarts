@@ -1,0 +1,48 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<XMI xmi.version = "1.1" xmlns:UML="href://org.omg/UML/1.3" timestamp = "Wed Dec 16 23:40:26 2009">
+<XMI.header>
+  <XMI.documentation>
+    <XMI.owner></XMI.owner>
+    <XMI.contact>Alexandre Achain</XMI.contact>
+    <XMI.exporter>StarUML.XMI-Addin</XMI.exporter>
+    <XMI.exporterVersion>1.0</XMI.exporterVersion>
+    <XMI.notice></XMI.notice>
+  </XMI.documentation>
+  <XMI.metamodel xmi.name = "UML" xmi.version = "1.3"/>
+ </XMI.header>
+<XMI.content>
+<UML:Model xmi.id="UMLProject.1">
+  <UML:Namespace.ownedElement>
+    <UML:Package xmi.id="UMLPackage.2" name="Description du projet" visibility="public" isSpecification="false" namespace="UMLProject.1" isRoot="false" isLeaf="false" isAbstract="false">
+      <UML:Namespace.ownedElement>
+        <UML:Package xmi.id="UMLPackage.3" name="Organisation" visibility="public" isSpecification="false" namespace="UMLPackage.2" isRoot="false" isLeaf="false" isAbstract="false"/>
+        <UML:Package xmi.id="UMLPackage.4" name="Fonctionnalités et Application" visibility="public" isSpecification="false" namespace="UMLPackage.2" isRoot="false" isLeaf="false" isAbstract="false"/>
+      </UML:Namespace.ownedElement>
+    </UML:Package>
+    <UML:Package xmi.id="UMLPackage.5" name="Conception" visibility="public" isSpecification="false" namespace="UMLProject.1" isRoot="false" isLeaf="false" isAbstract="false">
+      <UML:Namespace.ownedElement>
+        <UML:Package xmi.id="UMLPackage.6" name="Base de données - Modèle" visibility="public" isSpecification="false" namespace="UMLPackage.5" isRoot="false" isLeaf="false" isAbstract="false"/>
+      </UML:Namespace.ownedElement>
+    </UML:Package>
+    <UML:Package xmi.id="UMLPackage.7" name="Pré-programmation" visibility="public" isSpecification="false" namespace="UMLProject.1" isRoot="false" isLeaf="false" isAbstract="false">
+      <UML:Namespace.ownedElement>
+        <UML:Package xmi.id="UMLPackage.8" name="leCasDutilisation" visibility="public" isSpecification="false" namespace="UMLPackage.7" isRoot="false" isLeaf="false" isAbstract="false">
+          <UML:Namespace.ownedElement>
+            <UML:Collaboration xmi.id="UMLCollaborationInstanceSet.9" name="CollaborationInstanceSet1" visibility="public" isSpecification="false">
+              <UML:Collaboration.interaction>
+                <UML:Interaction xmi.id="UMLInteractionInstanceSet.10" name="InteractionInstanceSet1" visibility="public" isSpecification="false" context="UMLCollaborationInstanceSet.9"/>
+              </UML:Collaboration.interaction>
+            </UML:Collaboration>
+            <UML:ActivityGraph xmi.id="UMLActivityGraph.11" name="ActivityGraph1" visibility="public" isSpecification="false" context="UMLPackage.8">
+              <UML:StateMachine.top>
+                <UML:SimpleState xmi.id="UMLCompositeState.12" name="TOP" visibility="public" isSpecification="false" stateMachine="UMLActivityGraph.11"/>
+              </UML:StateMachine.top>
+            </UML:ActivityGraph>
+          </UML:Namespace.ownedElement>
+        </UML:Package>
+      </UML:Namespace.ownedElement>
+    </UML:Package>
+  </UML:Namespace.ownedElement>
+</UML:Model>
+</XMI.content>
+</XMI>
